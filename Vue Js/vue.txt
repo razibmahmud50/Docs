@@ -1,0 +1,3 @@
+=>Install Node and NPM
+=>Install vue CLI with NPM command: [npm i -g @vue/cli]
+=>Create project with vue-cli command: [vue create client (-n plug for no git) ]

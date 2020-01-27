@@ -1,0 +1,4 @@
+MongoDB = NoSQL Database
+Compass =  MongoDB GUI
+Mongod = Mongod is a background process used by MongoDB server to get things done
+Mongoose = Mongoose  is an Object Data Modeling (ODM) library for MongoDB and Node js. 
