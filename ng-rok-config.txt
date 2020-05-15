@@ -1,0 +1,14 @@
+# Run your project locally and share globally by a link:
+
+1 (: Login in “https://dashboard.ngrok.com/get-started”
+
+2 (: Download the zip/app
+
+3 (: Keeps it in a environment variable
+Goto windows environment and take new
+
+4 (: Add Authentication key from logged dashboard
+ngrok authtoken 1YTrGI4c7TavGeuAtGPnMZY3nSb_6u9RskL47hWG8ThR6pCae
+
+5(: Run command:
+ngrok http -host-header="localhost:4200" 4200
