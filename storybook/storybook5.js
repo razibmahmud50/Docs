@@ -43,5 +43,9 @@ storiesOf('Molecules | Global Header', module)
 
 
     // uses
+    
+    // dynamic style added
+    style={{color: `${textColor}`}}
+    
     // dynamic class add
     className={`carousel slide ${autoWidth?"auto-width":""}`}
