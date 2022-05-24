@@ -4,6 +4,9 @@
   //work after all content loaded
   window.addEventListener("load", function(){ });
 
+  //add css
+    document.getElementById("myButtom").style.display = "flex";
+    document.getElementById("myButtom").style.cssText = "opacity: 1; transform: unset";
 
   //add class
   document.getElementById("myButtom").addEventListener('click', function(){

@@ -1,7 +1,8 @@
   //document ready function
-  $(document).on('ready',function(){
-  
+  $(document).ready(function(){
+
   })
+  
   //navbar color change after scrolling
   $(window).scroll(function(){
   	var scroll = $(window).scrollTop();
